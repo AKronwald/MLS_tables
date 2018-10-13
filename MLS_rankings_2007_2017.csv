@@ -1,0 +1,196 @@
+season,Teamname,Team_Abbrv,Points
+2007,D.C. United,DC,55
+2007,Chivas USA,CHV,53
+2007,Houston Dynamo,HOU,52
+2007,New England Revolution,NE,50
+2007,FC Dallas,DAL,44
+2007,New York Red Bulls,RBNY,43
+2007,Kansas City Wizards,SKC,40
+2007,Chicago Fire,CHI,40
+2007,Columbus Crew,CLB,37
+2007,Colorado Rapids,COL,35
+2007,Los Angeles Galaxy,LA,34
+2007,Real Salt Lake,RSL,27
+2007,Toronto FC,TOR,25
+2008,Columbus Crew,CLB,57
+2008,Houston Dynamo,HOU,51
+2008,Chicago Fire,CHI,46
+2008,Chivas USA,CHV,43
+2008,New England Revolution,NE,43
+2008,Kansas City Wizards,SKC,42
+2008,Real Salt Lake,RSL,40
+2008,New York Red Bulls,RBNY,39
+2008,Colorado Rapids,COL,38
+2008,D.C. United,DC,37
+2008,FC Dallas,DAL,36
+2008,Toronto FC,TOR,35
+2008,San Jose Earthquakes,SJ,33
+2008,Los Angeles Galaxy,LA,33
+2009,Columbus Crew,CLB,49
+2009,Houston Dynamo,HOU,48
+2009,Los Angeles Galaxy,LA,48
+2009,Seattle Sounders FC,SEA,47
+2009,Chicago Fire,CHI,45
+2009,Chivas USA,CHV,45
+2009,New England Revolution,NE,42
+2009,Real Salt Lake,RSL,40
+2009,Colorado Rapids,COL,40
+2009,D.C. United,DC,40
+2009,FC Dallas,DAL,39
+2009,Toronto FC,TOR,39
+2009,Kansas City Wizards,SKC,33
+2009,San Jose Earthquakes,SJ,30
+2009,New York Red Bulls,RBNY,21
+2010,Los Angeles Galaxy,LA,59
+2010,Real Salt Lake,RSL,56
+2010,New York Red Bulls,RBNY,51
+2010,FC Dallas,DAL,50
+2010,Columbus Crew,CLB,50
+2010,Seattle Sounders FC,SEA,48
+2010,Colorado Rapids,COL,46
+2010,San Jose Earthquakes,SJ,46
+2010,Kansas City Wizards,SKC,39
+2010,Chicago Fire,CHI,36
+2010,Toronto FC,TOR,35
+2010,Houston Dynamo,HOU,33
+2010,New England Revolution,NE,32
+2010,Philadelphia Union,PHI,31
+2010,Chivas USA,CHV,28
+2010,D.C. United,DC,22
+2011,LA Galaxy,LA,67
+2011,Seattle Sounders FC,SEA,63
+2011,Real Salt Lake,RSL,53
+2011,FC Dallas,DAL,52
+2011,Sporting Kansas City,SKC,51
+2011,Houston Dynamo,HOU,49
+2011,Colorado Rapids,COL,49
+2011,Philadelphia Union,PHI,48
+2011,Columbus Crew,CLB,47
+2011,New York Red Bulls,RBNY,46
+2011,Chicago Fire,CHI,43
+2011,Portland Timbers,POR,42
+2011,D.C. United,DC,39
+2011,San Jose Earthquakes,SJ,38
+2011,Chivas USA,CHV,36
+2011,Toronto FC,TOR,33
+2011,New England Revolution,NE,28
+2011,Vancouver Whitecaps FC,VAN,28
+2012,San Jose Earthquakes,SJ,66
+2012,Sporting Kansas City,SKC,63
+2012,D.C. United,DC,58
+2012,New York Red Bulls,RBNY,57
+2012,Real Salt Lake,RSL,57
+2012,Chicago Fire,CHI,57
+2012,Seattle Sounders FC,SEA,56
+2012,LA Galaxy,LA,54
+2012,Houston Dynamo,HOU,53
+2012,Columbus Crew,CLB,52
+2012,Vancouver Whitecaps FC,VAN,43
+2012,Montreal Impact,MTL,42
+2012,FC Dallas,DAL,39
+2012,Colorado Rapids,COL,37
+2012,Philadelphia Union,PHI,36
+2012,New England Revolution,NE,35
+2012,Portland Timbers,POR,34
+2012,Chivas USA,CHV,30
+2012,Toronto FC,TOR,23
+2013,New York Red Bulls,RBNY,59
+2013,Sporting Kansas City,SKC,58
+2013,Portland Timbers,POR,57
+2013,Real Salt Lake,RSL,56
+2013,LA Galaxy,LA,53
+2013,Seattle Sounders FC,SEA,52
+2013,New England Revolution,NE,51
+2013,Colorado Rapids,COL,51
+2013,Houston Dynamo,HOU,51
+2013,San Jose Earthquakes,SJ,51
+2013,Montreal Impact,MTL,49
+2013,Chicago Fire,CHI,49
+2013,Vancouver Whitecaps FC,VAN,48
+2013,Philadelphia Union,PHI,46
+2013,FC Dallas,DAL,44
+2013,Columbus Crew,CLB,41
+2013,Toronto FC,TOR,29
+2013,Chivas USA,CHV,26
+2013,D.C. United,DC,16
+2014,Seattle Sounders FC,SEA,64
+2014,LA Galaxy,LA,61
+2014,D.C. United,DC,59
+2014,Real Salt Lake,RSL,56
+2014,New England Revolution,NE,55
+2014,FC Dallas,DAL,54
+2014,Columbus Crew,CLB,52
+2014,New York Red Bulls,RBNY,50
+2014,Vancouver Whitecaps FC,VAN,50
+2014,Portland Timbers,POR,49
+2014,Sporting Kansas City,SKC,49
+2014,Philadelphia Union,PHI,42
+2014,Toronto FC,TOR,41
+2014,Houston Dynamo,HOU,39
+2014,Chicago Fire,CHI,36
+2014,Chivas USA,CHV,33
+2014,Colorado Rapids,COL,32
+2014,San Jose Earthquakes,SJ,30
+2014,Montreal Impact,MTL,28
+2015,New York Red Bulls,RBNY,60
+2015,FC Dallas,DAL,60
+2015,Vancouver Whitecaps FC,VAN,53
+2015,Columbus Crew SC,CLB,53
+2015,Portland Timbers,POR,53
+2015,LA Galaxy,LA,51
+2015,Seattle Sounders FC,SEA,51
+2015,Montreal Impact,MTL,51
+2015,Sporting Kansas City,SKC,51
+2015,D.C. United,DC,51
+2015,New England Revolution,NE,50
+2015,Toronto FC,TOR,49
+2015,San Jose Earthquakes,SJ,47
+2015,Orlando City SC,ORL,44
+2015,Houston Dynamo,HOU,42
+2015,Real Salt Lake,RSL,41
+2015,New York City FC,NYC,37
+2015,Colorado Rapids,COL,37
+2015,Philadelphia Union,PHI,37
+2015,Chicago Fire,CHI,30
+2016,FC Dallas,DAL,60
+2016,Colorado Rapids,COL,58
+2016,YNY Red Bulls,RBN,57
+2016,New York City FC,NYC,54
+2016,Toronto FC,TOR,53
+2016,LA Galaxy,LA,52
+2016,Seattle Sounders FC,SEA,48
+2016,Sporting Kansas City,SKC,47
+2016,D.C. United,DC,46
+2016,Real Salt Lake,RSL,46
+2016,Montreal Impact,MTL,45
+2016,Portland Timbers,POR,44
+2016,Philadelphia Union,PHI,42
+2016,New England Revolution,NE,42
+2016,Orlando City SC,ORL,41
+2016,Vancouver Whitecaps FC,VAN,39
+2016,San Jose Earthquakes,SJ,38
+2016,Columbus Crew SC,CLB,36
+2016,Houston Dynamo,HOU,34
+2016,Chicago Fire,CHI,31
+2017,Toronto FC,TOR,69
+2017,New York City FC,NYC,57
+2017,Chicago Fire,CHI,55
+2017,Atlanta United FC,ATL,55
+2017,Columbus Crew SC,CLB,54
+2017,Portland Timbers,POR,53
+2017,Seattle Sounders FC,SEA,53
+2017,Vancouver Whitecaps FC,VAN,52
+2017,New York Red Bulls,RBNY,50
+2017,Houston Dynamo,HOU,50
+2017,Sporting Kansas City,SKC,49
+2017,San Jose Earthquakes,SJ,46
+2017,FC Dallas,DAL,46
+2017,Real Salt Lake,RSL,45
+2017,New England Revolution,NE,45
+2017,Philadelphia Union,PHI,42
+2017,Montreal Impact,MTL,39
+2017,Orlando City SC,ORL,39
+2017,Minnesota United FC,MIN,36
+2017,Colorado Rapids,COL,33
+2017,D.C. United,DC,32
+2017,LA Galaxy,LA,32
